@@ -1,6 +1,6 @@
 # Java
-Coding study sessions for learning the language.
+<p> Coding study sessions for learning the language. </p>
 
-1) Rock-Paper-Scissors game <br>
-   A small project with basic concepts (loops, else-if statements, scanner)
+<h2> 1) Rock-Paper-Scissors game </h2><br>
+   A small project with basic concepts (loops, else-if statements, scanner) <br>
    No GUI. :)
