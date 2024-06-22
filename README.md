@@ -6,7 +6,7 @@
    Folder ScioDoo: Codingvertiefung der Basiskonzepte.<br>
 
 <h3> 2) Folder oop_vorlesung </h3><br>
-   Folders SW02 - SW11: Übungen zu den Konzepten aus der Vorlesung<br>
+   <bold>Folders SW02 - SW11:</bold> Übungen zu den Konzepten aus der Vorlesung<br>
    Folder TestExam: Testdurchlauf einer echten Prüfung aus 2020<br>
    Folder Rock-Paper-Scissors: Kleines Projekt mit Grundlagen (loops, else-if statements, scanner). Kein GUI. :)<br>
    
